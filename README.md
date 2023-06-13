@@ -16,7 +16,7 @@ This is a comprehensive AVL tree library written in C++ that provides efficient 
 
 To start using the AVL tree library in your C++ project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/avl-tree-library`
+1. Clone the repository: `git clone https://github.com/CodeApprentice43/Avl-Tree`
 2. Include the necessary files in your project.
 3. Create an instance of the AVL tree and begin utilizing its operations.
 
